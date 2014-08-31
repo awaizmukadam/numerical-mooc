@@ -1,3 +1,5 @@
+This is a forked repo of the original numerical-mooc repo.
+This is for the personal use of Awaiz Mukadam.
 #Practical Numerical Methods in Python
 
 A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
